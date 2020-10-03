@@ -1,3 +1,4 @@
+ [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 # teleLogger
 Captures and sends photo from webcam, IP and ISP details to your telegram account each time your computer is turned on.
 
@@ -19,6 +20,10 @@ Saves the file locally and also logs it
 Tested on Windows 10, Linux
 init.py for Windows, Linux users won't need it
 
-The to-do list:
+## The to-do list:
 - Face recognition 
 - Trigger the script on Shutdown to record logoff details
+
+Happy Contributions!
+
+[![GitHub forks](https://img.shields.io/github/forks/twozero88/teleLogger?style=social&label=Fork&maxAge=2592000)](https://github.com/twozero88/teleLogger) this repo now 
